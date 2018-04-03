@@ -36,3 +36,6 @@ Also need dust collector
  - Vacuum
 
 I already have several vacuums, just need to build or buy a bucket cyclone
+
+Very involved Pollution Sensor: <http://www.instructables.com/id/Air-Pollution-Detector/>
+Dust sensor: <https://github.com/empierre/arduino/blob/master/DustSensor_Shinyei_PPD42NS.ino>
